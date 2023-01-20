@@ -1,2 +1,2 @@
-# Hamming-Distance
+# Hamming--Distance
 Html CSS Javascript
